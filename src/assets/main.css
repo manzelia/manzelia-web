@@ -1,0 +1,39 @@
+@import './base.css';
+
+#app {
+  max-width: 100%;
+  margin: 0 auto;
+  font-weight: normal;
+
+  background-color: #F4F4F6;
+}
+
+.padding {
+	padding: 40px 40px 0;
+}
+
+.contact__info__address__icon path {
+	stroke: #fff;
+}
+
+.persian {
+  flex-direction: row-reverse;
+}
+
+.persian-invest {
+  align-items: end;
+  text-align: right;
+}
+
+.persian-about, .persian-about ul {
+  direction: rtl;
+}
+
+.persian-benefits {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.persian-register {
+  direction: rtl;
+}

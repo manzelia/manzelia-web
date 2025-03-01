@@ -1,0 +1,172 @@
+{
+	"en": {
+		"invest": {
+			"title": "Invest Smart, Earn Forever!",
+			"register": "Register for the \"Dubai Expo\" and secure your children’s future with smart investments!",
+			"date": "March 21 and March 26 at 4 PM",
+			"address": "Marriott Hotel, Amiryan 1",
+			"registerButton": "Register Now"
+		},
+		"about": {
+			"card": {
+				"title": "About \"Dubai Expo\"",
+				"text": "Discover Exclusive Properties in Dubai – Virtually!"
+			},
+			"description": "Whether it’s selling your current home, getting financing, or buying a new home, we make it easy  and efficient. The best part? you’ll save a bunch of money and time with our services.",
+			"title": "At this event, you will learn about:",
+			"list": [
+				"Investment opportunities – How you can buy property in Dubai",
+				"Process & management – How we organize the entire process for you",
+				"Passive income strategies – How to generate long-term profit from your investment",
+				"Expert guidance – Insights from industry professionals"
+			],
+			"chance": "Don’t miss your chance !"
+		},
+		"speakers": {
+			"title": "Speakers",
+			"have_to_say": "See what our property managers, landlords, and tenants have to say.",
+			"quote": "“I’ve seen many successful individuals transform their lives by investing in Dubai properties, securing both financial stability and future opportunities. My goal is to help you find investments that offer strong growth and lasting value.”",
+			"founder_name": "Misak Grigoryan, ",
+			"founder": "Founder"
+		},
+		"benefits": {
+			"collaboration": {
+				"title": "Direct Collaboration",
+				"text": "We work directly with developers and airlines, covering all your travel expenses (flights and hotels).",
+				"icon": "collaboration"
+			},
+			"transactions": {
+				"title": "Hassle-Free Transactions",
+				"text": "We handle all transfers legally, without any commissions or fees, ensuring a smooth process.",
+				"icon": "transactions"
+			},
+			"discounts": {
+				"title": "Exclusive Discounts",
+				"text": "Save up to $10,000 on a $1 million property purchase by attending the Dubai Expo.",
+				"icon": "discounts"
+			},
+			"residency": {
+				"title": "Residency Card",
+				"text": "Receive a residency card with your property purchase.",
+				"icon": "residency"
+			}
+		},
+		"register": {
+			"no_spam": "No Spam Promise",
+			"title": "Are you a landlord?",
+			"text": "Discover ways to increase your home's value and  get listed. No Spam.",
+			"form": {
+				"first_name": "First Name",
+				"last_name": "Last Name",
+				"email": "Email",
+				"phone": "Phone Number",
+				"limited": "Hurry, spots are limited!",
+				"button": "Register Now",
+				"dates": ["21.03.2025", "26.03.2025"]
+			},
+			"error": "Please fill all fields",
+			"emailError": "Please enter a valid email address"
+		},
+		"contact": {
+			"title": "Contact Information",
+			"mail": "info@manzelia.estate",
+			"phone": "+374 77 111137",
+			"instagram": "manzelia.dubai",
+			"address": "Yerevan, Aram Street, 64",
+			"trademark": "2025 Malina Osipova. All rights reserved"
+		},
+		"successPopup": {
+			"success": "Registration Success!",
+			"congratulations": "Congratulations! You have successfully registered for Dubai Expo on {date} at 4:00 PM.",
+			"close": "Close"
+		},
+		"error": {
+			"error": "Failed to register, please contact support."
+		}
+	},
+	"fa": {
+		"invest": {
+			"title": "با سرمایه گذاری هوشمندانه، سود دائمی کسب کنید!",
+			"register": "با ثبت نام در نمایشگاه ما در دبی، آینده خود و فرزندانتان را تضمین کنید",
+			"date": "۲۱ مارس و ۲۶ مارس ساعت xx بعد از ظهر",
+			"address": "خیابان امیریان، ساختمان ۱",
+			"registerButton": "همین الان ثبت نام کنید."
+		},
+		"about": {
+			"card": {
+				"title": "درباره‌ی نمایشگاه دبی ما",
+				"text": "بازدید از املاک انحصاری در دبی به صورت مجازی"
+			},
+			"description": "چه فروش آپارتمان فعلی شما باشد، چه تامین مالی یا خرید آپارتمان جدید، ما آن را آسان و کارآمد می کنیم. بهترین بخش؟ با استفاده از خدمات ما، در زمان و هزینه های خود صرفه جویی خواهید کرد.",
+			"title": "در این قسمت، شما آشنا خواهید شد با:",
+			"list": [
+				"فرصت های سرمایه گذاری، چگونگی خرید آپارتمان در دبی",
+				"مدیریت و فرایند آن- چگونه ما این فرایند را به طور کلی برای شما سازماندهی میکنیم",
+				"راه و روش رسیدن به درآمد غیر فعال- چگونه از سرمایه گذاری خود به یک سود بلند‌مدت دست پیدا کنید",
+				"راهنمایی و مشاوره تخصصی- از منظر متخصصین این حوزه"
+			],
+			"chance": "این فرصت طلایی را از دست ندهید!"
+		},
+		"speakers": {
+			"title": "سخنرانان",
+			"have_to_say": "ببینید مدیران املاک، صاحبخانه ها و مستاجران ما چه می گویند",
+			"quote": "من افراد موفق زیادی را دیدم که با سرمایه گذاری ملک در دبی، زندگی خود را تغییر داده و ثبات مالی و فرصت های آینده را تضمین کردند. هدف من کمک به شما برای یافتن سرمایه‌گذاری‌هایی است که پتانسیل رشد قوی و ارزش پایداری را از خود ارائه دهند.»",
+			"founder_name": "میساک گریگوریان",
+			"founder": "بنیان گذار:"
+		},
+		"benefits": {
+			"collaboration": {
+				"title": "همکاری بدون واسطه",
+				"text": "همکاری بدون واسطه: ما با شرکت های هواپیمایی بدون واسطه و مستقیم به صورت کامل همکاری داریم و کل مخارج سفر شما به دبی را من جمله هتل و بلیط رفت و برگشت را تحت پوشش خودمان قرار میدهیم.",
+				"icon": "collaboration"
+			},
+			"transactions": {
+				"title": "تراکنش بدون واسطه و کمیسیون",
+				"text": "ما راه را برای انتقال وجه قانونی و بدون دریافت کمیسیون از ایران را برای شما میسر کردیم.",
+				"icon": "transactions"
+			},
+			"discounts": {
+				"title": "تخفیف استثنایی",
+				"text": "با شرکت در نمایشگاه ما در دبی، به ازای خرید یک واحد یک میلیونی، 10,000 دلار سود کسب کنید.",
+				"icon": "discounts"
+			},
+			"residency": {
+				"title": "بدست آوردن اقامت کشور امارات",
+				"text": "با خرید ملک در دبی، شما میتوانید مقیم قانونی کشور امارات شوید.",
+				"icon": "residency"
+			}
+		},
+		"register": {
+			"no_spam": "تضمین محتوای کارآمد",
+			"title": "آیا شما یک صاحبخانه هستید؟",
+			"text": "راه های افزایش ارزش ملک خود را دریابید.",
+			"form": {
+				"first_name": "نام:",
+				"last_name": "نام خانوادگی:",
+				"email": "ایمیل:",
+				"phone": "شماره موبایل:",
+				"limited": "بشتابید، تعداد شرکت کنندگان محدود میباشد!",
+				"button": "همین الان ثبت نام کنید.",
+				"dates": ["21.03.2025", "26.03.2025"]
+			},
+			"error": "لطفا همه‌ بخش ها را پر کنید",
+			"emailError": "Please enter a valid email address"
+		},
+		"contact": {
+			"title": "Contact Information",
+			"mail": "info@manzelia.estate",
+			"phone": "+374 77 111137",
+			"instagram": "manzelia.iran",
+			"address": "Yerevan, Aram Street, 64",
+			"trademark": "2025 Malina Osipova. All rights reserved"
+		},
+		"successPopup": {
+			"success": "ثبت نام موفقیت آمیز!",
+			"congratulations": "تبریک! ثبت نام شما با موفقیت در Dubai Expo در تاریخ {date}، ساعت PM 4:00 ثبت شد.",
+			"close": "بستن"
+		},
+		"error": {
+			"error": "اشکال در ثبت نام، لطفا با پشتیبانی تماس حاصل فرمایید."
+		}
+	}
+}
