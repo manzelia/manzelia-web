@@ -40,10 +40,11 @@ const getDate = (text) => {
 <style scoped>
 .popup {
 	position: fixed;
-	top: 25%;
-	left: 25%;
-	width: 50%;
-	height: 50%;
+	top: 15%;
+	left: calc(50% - 250px);
+	height: 70%;
+	max-height: 500px;
+	max-width: calc(min(100%, 500px));
 	background: #fcfcfc;
 
 	padding: 20px 20px;
@@ -68,25 +69,50 @@ const getDate = (text) => {
 }
 
 .popup-title {
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: bold;
 	color: #000929;
 }
 
 .popup-text {
-	font-size: 16px;
+	font-size: 14px;
 	color: #000929;
 }
 
 .popup-checkmark {
-	width: 90px;
-	height: 90px;
+	width: 30%;
+	max-width: 90px;
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
 
-	border: 6px solid #BDBDBD;
+	border: 5px solid #BDBDBD;
 	border-radius: 50%;
+}
+
+.popup-checkmark img {
+	width: 100%;
+}
+
+@media (max-height: 400px) {
+	.popup-checkmark {
+		display: none;
+	}
+}
+
+@media (max-width: 260px) {
+	.popup-checkmark {
+		display: none;
+	}
+}
+	
+	
+@media (max-width: 570px) {
+	.popup {
+		left: 5%;
+		width: 90%;
+		max-width: 100%;
+	}
 }
 </style>
