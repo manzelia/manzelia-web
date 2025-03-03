@@ -3,7 +3,7 @@ import langData from './langData.json'
 import { ref, computed } from 'vue'
 
 /// TODO
-export const api_url = "api.manzelia.estate";
+export const api_url = "https://api.manzelia.estate";
 
 const availableLanguages = Object.keys(langData);
 
