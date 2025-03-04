@@ -73,12 +73,14 @@ const icons = {
 	align-items: center;
 	position: relative;
 
-	width: 50px;
-	height: 50px;
+	min-width: 50px;
+	min-height: 50px;
+
+	max-width: 50px;
+	max-height: 50px;
 
 	border-radius: 50%;
 	border: 2px solid rgba(0, 95, 86, 0.25);
-	
 }
 
 .icon {
