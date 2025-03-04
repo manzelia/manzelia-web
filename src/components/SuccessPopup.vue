@@ -16,7 +16,7 @@ const getDate = (text) => {
 </script>
 
 <template>
-	<div v-if="success" class="popup">
+	<div v-if="true || success" class="popup">
 		<div class="popup-content">
 			<div class="popup-title">
 				{{ texts.successPopup.success }}
