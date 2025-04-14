@@ -21,7 +21,6 @@ import Error from './components/Error.vue'
 
 		<Speakers />
 		<Benefits />
-		<Register />
 		<Contact />
 
 		<SuccesPopup />

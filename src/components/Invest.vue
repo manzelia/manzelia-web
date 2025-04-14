@@ -24,8 +24,6 @@ const scrollToRegister = () => {
 				<div class="invest__address-icon" v-html="map"></div>
 				<div class="invest__address">{{ texts.invest.address }}</div>
 			</div>
-
-			<div class="invest__register-button" @click="scrollToRegister">{{ texts.invest.registerButton }}</div>
 		</div>
 
 		<div class="invest__image-container">
